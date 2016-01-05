@@ -8,22 +8,25 @@
 }
 
 .visual-content {
-  padding-top: 325px - 95px;
-  margin-bottom: 578px - (118px + 327px);
+  padding-top: 225px;
+  margin-bottom: 125px;
 }
 
 .visual-text {
   font-family: Raleway;
   color:  #ffffff;
-  font-size: 6rem;
+  font-size: 5.4rem;
   font-weight: 500;
+  letter-spacing: 0.2rem;
+  margin-bottom: 25px;
 }
 
 .visual-text span {
   font-family: Raleway;
-  color:  #7b6c63;
-  font-size: 6rem;
+  color: #7b6c63;
+  font-size: 5.4rem;
   font-weight: 500;
+  margin: 0 20px;
 }
 
 .visual-button {
@@ -42,7 +45,7 @@
 
 .visual-button span {
   display: block;
-  padding-top: 604px - 578px;
+  padding-top: 25px;
   font-family: Raleway;
   color: #FFF;
   font-size: 3.2rem;
